@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielRamirez404
-- 👨🏻‍🎓 I'm currently studying the equivalent to Computer Science in my country. I've finished 2 semesters.
+- 👨🏻‍🎓 I'm currently studying the equivalent to Computer Science in my country. I've finished 3 semesters.
 - 👀 I’m interested in Web Development, GUI aplications and Games...
 - 😊 Some of my hobbies, apart from coding, are learning languages and reading manga.
 - 🌱 I’m currently learning C++ and Web Development. Separately, obviously!
