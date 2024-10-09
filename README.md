@@ -1,6 +1,28 @@
-- 👋 Hi, I’m @DanielRamirez404
-- 👨🏻‍🎓 I'm currently studying the equivalent to Computer Science in my country. I've finished 3 semesters.
-- 👀 I’m interested in Web Development, GUI aplications and Games...
-- 😊 Some of my hobbies, apart from coding, are learning languages and reading manga.
-- 🌱 I’m currently learning C++ and Web Development. Separately, obviously!
-- 📫 You can reach me at danielramirezabou404@gmail.com
+![Banner image](banner.png)
+
+> Daniel Ramírez | CE student | Junior year | Aspiring Polyglot | Contact: danielramirezabou404@gmail.com
+
+#
+
+<div align="center">
+
+
+```
+🎓 Computer Engineering Student •
+💻 GUI, 🔧 Low-Level & 📱 Android Development •
+🐧 Linux • 🇨++ • 🎮 SDL2 • 🇰otlin • 🐍 Python •
+🌐 Proficient in 🇺🇸 🇪🇸 🇫🇷 • 📖 To learn 🇩🇪 🇯🇵 🇧🇷 
+🤍 Hobbies: 👨🏻‍💻 Coding • 💬 Languages • 📚 Mangas •
+```
+
+</div>
+
+## My Stats
+
+<div align="center">
+
+![Github's Stats](https://github-readme-stats.vercel.app/api?username=DanielRamirez404&show_icons=true&title_color=22abf0&icon_color=22abf0&text_color=9f9f9f&bg_color=151515)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRamirez404)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
