@@ -2,6 +2,10 @@
 
 > Daniel Ramírez | CE student | Junior year | Aspiring Polyglot | Contact: danielramirezabou404@gmail.com
 
+> Top National Committer:
+
+[![committers.top badge](https://user-badge.committers.top/venezuela/DanielRamirez404.svg)](https://user-badge.committers.top/venezuela/DanielRamirez404) 
+
 #
 
 <div align="center">
@@ -11,7 +15,7 @@
 🎓 Computer Engineering Student •
 💻 GUI, 🔧 Low-Level & 📱 Android Development •
 🐧 Linux • 🇨++ • 🎮 SDL2 • 🇰otlin • 🐍 Python •
-🌐 Proficient in 🇺🇸 🇪🇸 🇫🇷 • 📖 To learn 🇩🇪 🇯🇵 🇧🇷 
+🌐 Proficient in 🇺🇸 🇪🇸 🇫🇷 • 📖 Learning 🇩🇪 🇯🇵 🇧🇷 •
 🤍 Hobbies: 👨🏻‍💻 Coding • 💬 Languages • 📚 Mangas •
 ```
 
